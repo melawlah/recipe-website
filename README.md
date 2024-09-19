@@ -24,7 +24,7 @@ A responsive recipe website where a list of recipes is displayed when the search
 
 ### Getting Started
 
-First, install node modules:
+First, clone the master brand and install node modules:
 
 ```bash
 npm install
