@@ -11,7 +11,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
- 
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -31,7 +30,6 @@
     "gh-pages": "^6.1.1",
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.12",
-    "vite": "^5.4.6"
+    "tailwindcss": "^3.4.12"
   }
 }
