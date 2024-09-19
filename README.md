@@ -17,6 +17,11 @@
 ### The challenge
 A responsive recipe website where a list of recipes is displayed when the search text is entered or the submit button is clicked. The results can also be filtered by cuisine using a dropdown menu.
 
+### Screenshots
+![image](https://github.com/user-attachments/assets/8f6c092c-77fb-4d24-956a-32669970eb8e)
+![image](https://github.com/user-attachments/assets/2f3048e8-0c9e-4f9d-bc1c-c7da3698289c)
+
+
 ### Getting Started
 
 First, install node modules:
